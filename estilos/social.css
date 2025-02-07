@@ -16,11 +16,6 @@ img {
 
 }
 
-img::-webkit-scrollbar {
-    width: 0px;
-    height: 0px;
-}
-
 a {
     display: block;
     background-color: rgb(22, 167, 22);
@@ -29,8 +24,4 @@ a {
     text-align: center;
     font-weight: bolder;
     text-decoration: none;
-}
-
-a:hover {
-    color: firebrick;
 }
